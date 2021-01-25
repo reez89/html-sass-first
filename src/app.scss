@@ -1,0 +1,17 @@
+$colorWhite: white;
+$colorYellow: yellow;
+$colorAqua: aqua;
+
+
+body {
+    background: $colorAqua;
+}
+
+h1 {
+    color: $colorYellow;
+}
+
+h2,
+h3 {
+    color: $colorWhite;
+}
